@@ -25,6 +25,7 @@ body {
 #mainNavbar {
     font-size: 1.5rem;
     font-weight: 100;
+    background:black;
 }
 
 #mainNavbar .nav-link{
